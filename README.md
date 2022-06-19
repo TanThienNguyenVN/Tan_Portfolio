@@ -49,11 +49,22 @@ Peace!
    - 03.Data Preparation : Data Cleaning, Data Normalization, WordCloud
    - 04.Modeling and Evaluation : Data Preprocessing, Modeling and Evaluation
 
-### Project 5: R - Data Analysis and Visualization - World Economic Sectors
-This project was done while I was studying Data Visualization and Storytelling module of MSc in Data Science course in SETU, Ireland
+### [Project 5: Data Storytelling with R using WorldBank Economic Data](https://github.com/TanThienNguyenVN/Project5_R_DataAnalysis_WorldEconomicSector)
+- This project was done while I was studying Data Visualization and Storytelling module of MSc in Data Science course in SETU, Ireland
+- Many people believe that Agriculture, Forestry, and Fishing contribute a big part to the world’s economy (Gapminder, 2021).
+- Vietnam, one of the countries in the lower-middle-income group, has a lot of advantages about natural resources for Agriculture, Forestry, and Fishing development. The amount of Agriculture and Fishing goods exports increased over the years and the labor force working in Agriculture in Vietnam is more significant than any economic activity. The target of Vietnam is reaching the high-income group by the year 2045 (World Bank, 2020).
+- Whether Vietnam should treat Agriculture, Forestry, and Fishing as the spearhead of the economy to reach the target make a controversy among community. It is not enough to evaluate sufficiently situation and direction if only look into Vietnam’s strength and what Vietnam has in history.
+- This project aims to clarify the above problem by analyzing data from the World Bank
 
-### Project 6: R - Statistical Analysis - Heart Disease
-This project was done while I was studying Statistics for Data Science module of MSc in Data Science course in SETU, Ireland
+### [Project 6: Inferential Statistics in Heart Disease with R](https://github.com/TanThienNguyenVN/Project6_R_StatisticalAnalysis_HeartDisease)
+- This project was done while I was studying Statistics for Data Science module of MSc in Data Science course in SETU, Ireland
+- Cardiovascular diseases (CVDs) are the leading cause of death globally. WHO estimated that 18 million people died from CVDs in 2019, representing 32% of all global deaths. Since 1990, the most significant increase in deaths has been from heart disease, rising by more than 12 million to 18 million deaths in 2019 (WHO, 2022).
+- Most cardiovascular diseases can be prevented by addressing behavioral risk factors such as tobacco use, unhealthy diet and obesity, physical inactivity, and harmful use of alcohol. It is crucial to detect the cardiovascular disease as early as possible to begin management with counseling and medicines (WHO, 2022).
+- This project aims to investigate the most relevant factors of heart disease as well as predict the overall risk using logistic regression on data collected from an ongoing heart study in Framingham, Massachusetts, United State.
 
-### Project 7: Hadoop-Hive-Spark - Infrastructure as Code (IaC)
-This project was done while I was studying BigData Infrastructure module of MSc in Data Science course in SETU, Ireland
+
+### [Project 7: Basic Big Data Architecture with Hadoop-Hive-Spark using Infrastructure as Code (IaC)](https://github.com/TanThienNguyenVN/Project7_Hadoop_Hive_Spark_InfrastructureAsCode)
+- This project was done while I was studying BigData Infrastructure module of MSc in Data Science course in SETU, Ireland.
+- We (Data Analysis Team in Company A) are facing several issues when using existing on-premise DWH Architecture to store and extract data for analysis including Performance, Availablility and Response Time. 
+- Therefore, we would like to migrate this existing architecture into a new one to resolve the above problems and expect to build a new system with high scalability, high availability, and high performance for a vast amount of data.
+- This project aims to build a Big Data architecture (HDFS, Hive, and Spark) for POC and Performance Test before bringing it all into production.
