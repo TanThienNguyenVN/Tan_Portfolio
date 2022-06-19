@@ -1,5 +1,14 @@
-# Tan's Data Science Portfolio
-This is a Data Science Portfolio by me
+## About me
+#### Hi there, I'm Tan.
+I was born in a small and peaceful village in Vietnam. And now, I'm a Data Analyst and a bit Data Engineer. 
+
+I have over 7 years of experience in IT industry and nearly 6 years of working in Data Analysis, Data Reporting and DWH field. I am also an innovation-oriented, open, responsible DA, DE with good leadership skill.
+
+Feel free to reach out to me via my personal email thientannguyen209@gmail.com.
+
+I share my humble data science portfolio below and I would love to hear your comments, suggestions to make it better.
+
+Thanks a million and hope to see you soon. Peace!
 
 ### [Project 1: Basic Data Cleaning in Python using Chicago Food Inspections dataset](https://github.com/TanThienNguyenVN/Project1_Python_DataCleaning_ChicagoFoodInspections)
 - This project was done while I was studying Programming module of MSc in Data Science course in SETU, Ireland
