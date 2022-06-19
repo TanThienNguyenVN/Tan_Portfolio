@@ -4,9 +4,7 @@ I was born in a small and peaceful village in Vietnam. And now, I'm a Data Analy
 
 I have over 7 years of experience in IT industry and nearly 6 years of working in Data Analysis, Data Reporting and DWH field. I am also an innovation-oriented, open, responsible DA, DE with good leadership skill.
 
-Feel free to reach out to me via my personal email thientannguyen209@gmail.com.
-
-I share my humble data science portfolio below and I would love to hear your comments, suggestions to make it better.
+I would like to share my humble data science portfolio below, which includes some small projects I built when I was pursuing MSc in Data Science in SETU, Ireland. I would love to hear your comments, suggestions to make it better. Feel free to reach out to me via my personal email thientannguyen209@gmail.com.
 
 Thanks a million and hope to see you soon. 
 
