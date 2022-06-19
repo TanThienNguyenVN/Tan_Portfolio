@@ -60,9 +60,9 @@ Peace!
 - Most cardiovascular diseases can be prevented by addressing behavioral risk factors such as tobacco use, unhealthy diet and obesity, physical inactivity, and harmful use of alcohol. It is crucial to detect the cardiovascular disease as early as possible to begin management with counseling and medicines (WHO, 2022).
 - This project aims to investigate the most relevant factors of heart disease as well as predict the overall risk using logistic regression on data collected from an ongoing heart study in Framingham, Massachusetts, United State.
 
-
 ### [Project 7: Basic Big Data Architecture with Hadoop-Hive-Spark using Infrastructure as Code (IaC)](https://github.com/TanThienNguyenVN/Project7_Hadoop_Hive_Spark_InfrastructureAsCode)
 - This project was done while I was studying BigData Infrastructure module of MSc in Data Science course in SETU, Ireland.
 - We (Data Analysis Team in Company A) are facing several issues when using existing on-premise DWH Architecture to store and extract data for analysis including Performance, Availablility and Response Time. 
 - Therefore, we would like to migrate this existing architecture into a new one to resolve the above problems and expect to build a new system with high scalability, high availability, and high performance for a vast amount of data.
 - This project aims to build a Big Data architecture (HDFS, Hive, and Spark) for POC and Performance Test before bringing it all into production.
+- Demo https://youtu.be/j8SnfELG7Sw
