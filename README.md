@@ -73,6 +73,6 @@ Peace!
 - We (Data Analysis Team in Company A) are facing several issues when using existing on-premise DWH Architecture to store and extract data for analysis including Performance, Availablility and Response Time. 
 - Therefore, we would like to migrate this existing architecture into a new one to resolve the above problems and expect to build a new system with high scalability, high availability, and high performance for a vast amount of data.
 - This project aims to build a Big Data architecture (HDFS, Hive, and Spark) for POC and Performance Test before bringing it all into production.
-- Demo https://youtu.be/j8SnfELG7Sw
+- Demo [https://youtu.be/j8SnfELG7Sw](https://youtu.be/j8SnfELG7Sw)
 
 ![](/images/Project7.PNG)
