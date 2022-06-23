@@ -17,6 +17,8 @@ Peace!
 - There are some changes being made to retrieve more information
 - The notebook will be presented as a story so that we can easily follow up.
 
+![](/images/Project1.PNG)
+
 ### [Project 2: Web Scraping with Python from Canadian Prime Ministers Wikipage](https://github.com/TanThienNguyenVN/Project2_Python_WebScraping_CanadianPrimeMinisters)
 - This project was done while I was studying Programming module of MSc in Data Science course in SETU, Ireland
 - Although a lot of raw data is available in CSV, JSON, XML, and other "standard" formats, an awful lot of published data resides within webpages, embedded within HTML markup. Developing strategies and techniques for extracting usable data from raw HTML is an important skill.
@@ -26,6 +28,8 @@ Peace!
   - 01.Create MariaDB database to store scraped data including create database, schema, table, view, user, grant access,
   - 02.Use Soup to scrap the data from Wiki page https://en.wikipedia.org/wiki/List_of_prime_ministers_of_Canada
   - 03.Use the data in database to answer some questions provided in the notebook
+
+![](/images/Project2.PNG)
 
 ### [Project 3: Dynamic Web Data Analysis with Python using Covid19 data on web](https://github.com/TanThienNguyenVN/Project3_Python_DynamicWebDataAnalysis_Covid19)
 - This project was done while I was studying Programming module of MSc in Data Science course in SETU, Ireland
