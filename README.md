@@ -36,6 +36,8 @@ Peace!
    - 02.Visualize the data using Pandas, Numpy and Plotly
    - 03.Create an interactive, dynamic web application which showcases the visualisations from Part 02 using Dash, a micro-web framework.
 
+![](/images/Project3.PNG)
+
 ### [Project 4: Sentiment Analysis with Python and NLP using Amazon Software Reviews](https://github.com/TanThienNguyenVN/Project4_PythonNLP_SentimentAnalysis_AmazonSoftwareReviews)
 - This project was done while I was studying Data Analytics and Algorithms module of MSc in Data Science course in SETU, Ireland
 - This project focuses on customer sentiment analysis using Amazon Review Data on Software products to understand customer feelings about the brands and products through their reviews.
@@ -47,6 +49,8 @@ Peace!
    - 03.Data Preparation : Data Cleaning, Data Normalization, WordCloud
    - 04.Modeling and Evaluation : Data Preprocessing, Modeling and Evaluation
 
+![](/images/Project4.PNG)
+
 ### [Project 5: Data Storytelling with R using WorldBank Economic Data](https://github.com/TanThienNguyenVN/Project5_R_DataAnalysis_WorldEconomicSector)
 - This project was done while I was studying Data Visualization and Storytelling module of MSc in Data Science course in SETU, Ireland
 - Many people believe that Agriculture, Forestry, and Fishing contribute a big part to the world’s economy (Gapminder, 2021).
@@ -54,11 +58,15 @@ Peace!
 - Whether Vietnam should treat Agriculture, Forestry, and Fishing as the spearhead of the economy to reach the target make a controversy among community. It is not enough to evaluate sufficiently situation and direction if only look into Vietnam’s strength and what Vietnam has in history.
 - This project aims to clarify the above problem by analyzing data from the World Bank
 
+![](/images/Project5.gif)
+
 ### [Project 6: Inferential Statistics in Heart Disease with R](https://github.com/TanThienNguyenVN/Project6_R_StatisticalAnalysis_HeartDisease)
 - This project was done while I was studying Statistics for Data Science module of MSc in Data Science course in SETU, Ireland
 - Cardiovascular diseases (CVDs) are the leading cause of death globally. WHO estimated that 18 million people died from CVDs in 2019, representing 32% of all global deaths. Since 1990, the most significant increase in deaths has been from heart disease, rising by more than 12 million to 18 million deaths in 2019 (WHO, 2022).
 - Most cardiovascular diseases can be prevented by addressing behavioral risk factors such as tobacco use, unhealthy diet and obesity, physical inactivity, and harmful use of alcohol. It is crucial to detect the cardiovascular disease as early as possible to begin management with counseling and medicines (WHO, 2022).
 - This project aims to investigate the most relevant factors of heart disease as well as predict the overall risk using logistic regression on data collected from an ongoing heart study in Framingham, Massachusetts, United State.
+
+![](/images/Project6.PNG)
 
 ### [Project 7: Basic Big Data Architecture with Hadoop-Hive-Spark using Infrastructure as Code (IaC)](https://github.com/TanThienNguyenVN/Project7_Hadoop_Hive_Spark_InfrastructureAsCode)
 - This project was done while I was studying BigData Infrastructure module of MSc in Data Science course in SETU, Ireland.
@@ -66,3 +74,5 @@ Peace!
 - Therefore, we would like to migrate this existing architecture into a new one to resolve the above problems and expect to build a new system with high scalability, high availability, and high performance for a vast amount of data.
 - This project aims to build a Big Data architecture (HDFS, Hive, and Spark) for POC and Performance Test before bringing it all into production.
 - Demo https://youtu.be/j8SnfELG7Sw
+
+![](/images/Project7.PNG)
