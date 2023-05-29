@@ -1,8 +1,8 @@
 ## Tan's Data Science Portfolio
 #### Hi there, I'm Tan.
-I was born in a small and peaceful village in Vietnam. And now, I'm a Data Analyst and a bit Data Engineer. 
+I was born in a small and peaceful village in Vietnam. And now, I'm a Data Consultant.
 
-I have over 7 years of experience in IT industry and nearly 6 years of working in Data Analysis, Data Reporting and DWH field. I am also an innovation-oriented, open, responsible DA, DE with good leadership skill.
+I have over 8 years of experience in IT industry and nearly 7 years of working in Data Analytics field. I am also an innovation-oriented, open, responsible Data Consultant with good leadership skill.
 
 I would like to share my humble data science portfolio below, which includes some small projects I built when I was pursuing MSc in Data Science in SETU, Ireland. I would love to hear your comments, suggestions to make it better. 
 
